@@ -20,7 +20,7 @@ class BytebankApp extends StatelessWidget {
             buttonColor: Colors.green[500],
             textTheme: ButtonTextTheme.primary,
           )),
-      home: ContactForm(),
+      home: Dashboard(),
     );
   }
 }
